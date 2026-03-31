@@ -1,0 +1,6 @@
+tensorflow>=2.4.0
+scikit-learn
+imutils
+numpy
+opencv-python
+matplotlib
